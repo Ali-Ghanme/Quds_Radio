@@ -29,5 +29,5 @@ Welcome to the showcase repository of **Sawt Al-Quds Radio** application. This i
 
 🌐 اللغة / Language
 
-[🇸🇦 العربية](./README.md) | [🇬🇧 English](./README-EN.md)
+[🇸🇦 العربية](./README.ar.md) | [🇬🇧 English](./README.md)
 
