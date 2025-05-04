@@ -25,4 +25,9 @@ Welcome to the showcase repository of **Sawt Al-Quds Radio** application. This i
 
 ---
 
-📧 For inquiries or professional contact, reach out at \[[example@email.com](mailto:example@email.com)].
+📧 For inquiries or professional contact, reach out at \[[gly703105@gmail.com](mailto:gly703105@email.com)].
+
+🌐 اللغة / Language
+
+[🇸🇦 العربية](./README.md) | [🇬🇧 English](./README-EN.md)
+
