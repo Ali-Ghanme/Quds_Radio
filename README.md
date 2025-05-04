@@ -14,8 +14,8 @@ Welcome to the showcase repository of **Sawt Al-Quds Radio** application. This i
 
 ### 🖼️ App Screenshots
 
-![Live Stream](screenshots/image_1)
-![Audio Player](screenshots/image_2)
+![Live Stream](screenshots/image_1.jpg)
+![Audio Player](screenshots/image_2.jpg)
 ![Reels Section](screenshots/reels-section.png)
 
 ### ℹ️ Additional Information:
