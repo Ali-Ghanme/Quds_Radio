@@ -30,4 +30,4 @@
 
 🌐 اللغة / Language
 
-[🇸🇦 العربية](./README.md) | [🇬🇧 English](./README-EN.md)
+[🇸🇦 العربية](./README.ar.md) | [🇬🇧 English](./README.md)
