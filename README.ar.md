@@ -16,7 +16,7 @@
 ### 🖼️ صور من التطبيق
 
 ![البث المباشر](screenshots/live-stream.png)
-![مشغل الصوت](screenshots/audio-player.png)
+![مشغل الصوت](screenshots/image_3.jpg)
 ![قسم الريلز](screenshots/reels-section.png)
 
 ### ℹ️ معلومات إضافية:
